@@ -1,0 +1,3 @@
+/data/Datasets/Fish/CavFish/Predictions/augmented/predictions_nocaudal_PhenoLoss15beta.csv
+/data/Datasets/Fish/CavFish/Predictions/augmented/predictions_nocaudal_PhenoLoss1e2alpha.csv
+/data/Datasets/Fish/CavFish/Predictions/augmented/predictions_nocaudal_PhenoLossNoResAug.csv
